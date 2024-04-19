@@ -2,7 +2,7 @@ Name of the Student : TONDURU DILEEP
 Learning Track : SALESFORCE ADMINISTRATION
 project Name :A CRM Application To Manage The Booking Of Co-Living
 Trailhead profile : https://www.salesforce.com/trailblazer/dileeptonduru
-Developer org username : dileeptonduru.dt@gdcproject.com
+Developer org username : dileep@gdcproject.com
 Developer org password : Gayatri@123
 position : Team lead
 
